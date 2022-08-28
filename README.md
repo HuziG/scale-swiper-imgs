@@ -5,7 +5,7 @@
 
 ## 效果预览
 
-![1661679189850692](/Users/zhangxiaoming/Desktop/scale-swiper-imgs/assets/1661679189850692.gif)
+![1661679189850692](./assets/1661679189850692.gif)
 
 
 
