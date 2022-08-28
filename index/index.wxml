@@ -1,0 +1,7 @@
+<swiper class="swiper-wrapper" current="{{current}}">
+  <block wx:for="{{albumData}}" wx:key="item.url">
+    <swiper-item>
+      <image class="img" src="{{item.url}}" style="transform: translate({{translateX}}px, {{translateY}}) scale({{scale}})" catch:touchstart="touchStart" catch:touchmove="touchMove" catch:touchend="touchEnd" />
+    </swiper-item>
+  </block>
+</swiper>

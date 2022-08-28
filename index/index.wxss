@@ -1,0 +1,19 @@
+page {
+  background: #000000;
+}
+
+swiper {
+  height: 100vh !important;
+}
+
+.swiper-item {
+  position: relative;
+  height: 100vh !important;
+}
+
+.img {
+  position: absolute;
+  top: 50%;
+  left: 0;
+  width: 100vw;
+}
